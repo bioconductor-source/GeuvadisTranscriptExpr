@@ -2,7 +2,7 @@ Package: GeuvadisTranscriptExpr
 Type: Package
 Title: Data package with transcript expression and bi-allelic genotypes
         from the GEUVADIS project
-Version: 1.26.0
+Version: 1.27.0
 Date: 2021-11-21
 Authors@R: c(person(given = "Malgorzata", family = "Nowicka", role =
         c("aut", "cre"), email = "gosia.nowicka@uzh.ch"))
